@@ -55,3 +55,7 @@ Custom functions:
 
 .. _`Jinja2 Templates`: http://jinja.pocoo.org/docs/2.9/templates/
 .. _`Unidecode`: https://pypi.python.org/pypi/Unidecode
+
+.. image:: https://badges.gitter.im/random-data-fakrs/Lobby.svg
+   :alt: Join the chat at https://gitter.im/random-data-fakrs/Lobby
+   :target: https://gitter.im/random-data-fakrs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
